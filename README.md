@@ -3,6 +3,8 @@
 ## Install
 
 ```
+git clone https://github.com/tariqul-islam/mane
+cd mane
 pip install .
 ```
 
