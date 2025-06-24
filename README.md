@@ -15,7 +15,7 @@ Will try to add global pip install later.
 ```
 from mane import mane_2set
 
-emb_comm, emb1, emb2 = mane2set(comm1, comm2, data1, data2)
+emb_comm, emb1, emb2 = mane_2set(comm1, comm2, data1, data2)
 
 #or when additional data is not available
 
