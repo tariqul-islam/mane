@@ -1,0 +1,5 @@
+mane.egg-info/
+build/
+__pyache__/
+mane/__pycache__/
+sample_notebook/.ipynb_checkpoints/
