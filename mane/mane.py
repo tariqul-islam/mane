@@ -307,7 +307,7 @@ def one_epoch_2sets_2(emCommon, em1, em2,
     
     return
     
-def mane_2set(cdata1, cdata2, data1, data2, 
+def mane_2set(cdata1, cdata2=None, data1=None, data2=None, 
                 n_neighbors= 15,
                 n_components= 2, 
                 epochs = 200,
