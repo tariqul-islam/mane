@@ -23,7 +23,7 @@ emb_comm, _, _ = mane_2set(comm1, comm2)
 ```
 ## Citation
 
-Is you use the code, please consider citing our paper
+If you use the code, please consider citing our paper:
 ```
 @inproceedings{islam2022manifold,
   title={Manifold-aligned Neighbor Embedding},
